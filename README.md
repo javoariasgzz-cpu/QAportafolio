@@ -19,17 +19,17 @@ Actualmente desarrollo proyectos prácticos enfocados en detección de bugs, val
 Tengo background en atención al cliente, lo que me permite analizar el software no solo desde la lógica técnica, sino también desde la experiencia del usuario.
 
 ## Proyectos
-### 🔹 API Stand Tests
-Pruebas automatizadas para validación de endpoints y respuestas de API.
-👉 Ver proyecto: https://github.com/javoariasgzz-cpu/api_stand_tests
-
 ### 🔹 Urban Grocers App
 Proyecto de testing funcional para aplicación web de supermercado.
 👉 Ver proyecto: https://github.com/javoariasgzz-cpu/qa-project-Urban-Grocers-app-es
 
 ### 🔹 Urban Routes
-Proyecto enfocado en validación de flujos y experiencia de usuario.
+Proyecto enfocado en validación de flujos y experiencia de usuario con pruebas automatizadas.
 👉 Ver proyecto: https://github.com/javoariasgzz-cpu/qa-project-Urban-Routes-es
+
+### 🔹 API Stand Tests
+Pruebas automatizadas para validación de endpoints y respuestas de API.
+👉 Ver proyecto: https://github.com/javoariasgzz-cpu/api_stand_tests
 
 
 ## Habilidades Técnicas
